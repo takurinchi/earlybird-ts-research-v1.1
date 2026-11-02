@@ -20,20 +20,20 @@
   "run_ids": [
     "20261030T183030009791_C1_tm_minus_10_online_dense_late_compaction_seed1",
     "20261030T183030009791_C1_tm_minus_10_online_train_time_compaction_seed1",
-    "20261030T183030009791_C2_tm_online_train_time_compaction_seed1",
     "20261030T183030009791_C2_tm_online_dense_late_compaction_seed1",
+    "20261030T183030009791_C2_tm_online_train_time_compaction_seed1",
     "20261030T183030009791_C3_tm_plus_10_online_dense_late_compaction_seed1",
     "20261030T183030009791_C3_tm_plus_10_online_train_time_compaction_seed1",
-    "20261030T183030009791_C4_fixed_ts_online_train_time_compaction_seed1",
     "20261030T183030009791_C4_fixed_ts_online_dense_late_compaction_seed1",
+    "20261030T183030009791_C4_fixed_ts_online_train_time_compaction_seed1",
     "20261030T183030009791_C1_tm_minus_10_posthoc_dense_late_compaction_seed1",
     "20261030T183030009791_C1_tm_minus_10_posthoc_train_time_compaction_seed1",
-    "20261030T183030009791_C2_tm_posthoc_train_time_compaction_seed1",
     "20261030T183030009791_C2_tm_posthoc_dense_late_compaction_seed1",
+    "20261030T183030009791_C2_tm_posthoc_train_time_compaction_seed1",
     "20261030T183030009791_C3_tm_plus_10_posthoc_dense_late_compaction_seed1",
     "20261030T183030009791_C3_tm_plus_10_posthoc_train_time_compaction_seed1",
-    "20261030T183030009791_C4_fixed_ts_posthoc_train_time_compaction_seed1",
-    "20261030T183030009791_C4_fixed_ts_posthoc_dense_late_compaction_seed1"
+    "20261030T183030009791_C4_fixed_ts_posthoc_dense_late_compaction_seed1",
+    "20261030T183030009791_C4_fixed_ts_posthoc_train_time_compaction_seed1"
   ],
   "failed_or_incomplete_runs": [],
   "checkpoint_policy": {
