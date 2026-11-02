@@ -1,0 +1,8 @@
+{
+  "python": "3.12.14",
+  "torch": "2.14.1+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "device": "cuda:0",
+  "gpu": "NVIDIA GeForce RTX 5050"
+}

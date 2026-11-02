@@ -1,0 +1,8 @@
+experiment:
+  mode: earlybird_detection
+  config: default.yaml
+earlybird:
+  mask_generator: bn_channel_masks
+  distance: normalized_hamming
+  epsilon: 0.1
+  mask_window: 5 # Official code stores five masks and compares newest with prior four

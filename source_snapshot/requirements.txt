@@ -1,0 +1,9 @@
+# Install CUDA PyTorch separately on Windows (see setup_windows.ps1).
+torch==2.14.1
+torchvision==0.29.1
+PyYAML==6.0.3
+numpy>=2.0
+pandas>=2.2
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pytest==9.1.1
