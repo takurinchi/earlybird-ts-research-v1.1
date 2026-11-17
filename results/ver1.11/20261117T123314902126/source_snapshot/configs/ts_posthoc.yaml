@@ -1,0 +1,12 @@
+experiment:
+  mode: ts_comparison
+  config: earlybird.yaml
+data:
+  root: data/cifar10_posthoc
+ts:
+  information_modes: [posthoc]
+  relative_to_tm:
+    before_offset: 10
+    near_offset: 0
+    after_offset: 10
+  fixed_epoch: 40

@@ -1,0 +1,12 @@
+{
+  "version": "1.11",
+  "retained_channel_fraction_target": 0.2,
+  "resume_baseline": "outputs/ver1.11/20261116T163256236060_baseline_seed1",
+  "pruning_ratio": 0.8,
+  "previous_pruning_ratio": 0.5,
+  "config_changes": [
+    "pruning.selected_ratio",
+    "experiment.output_root"
+  ],
+  "note": "Same detection rule; t_m is detected again. Global threshold ties may reduce retention below 20%."
+}

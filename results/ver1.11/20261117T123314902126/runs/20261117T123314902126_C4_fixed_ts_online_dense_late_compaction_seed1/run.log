@@ -1,0 +1,43 @@
+stage=ts_compaction strategy=dense_late_compaction ts=40 mode=online
+epoch=1/160 phase=dense train_loss=1.518545 val_accuracy=0.537000 lr=0.1 train_s=18.1041 validation_s=0.7923 parameters=14724042
+epoch=2/160 phase=dense train_loss=0.974117 val_accuracy=0.685800 lr=0.1 train_s=18.0777 validation_s=0.7868 parameters=14724042
+epoch=3/160 phase=dense train_loss=0.754931 val_accuracy=0.730200 lr=0.1 train_s=18.1765 validation_s=0.8100 parameters=14724042
+epoch=4/160 phase=dense train_loss=0.632775 val_accuracy=0.753200 lr=0.1 train_s=18.0859 validation_s=0.7854 parameters=14724042
+epoch=5/160 phase=dense train_loss=0.551687 val_accuracy=0.758200 lr=0.1 train_s=18.0805 validation_s=0.7836 parameters=14724042
+epoch=6/160 phase=dense train_loss=0.490320 val_accuracy=0.806200 lr=0.1 train_s=18.0582 validation_s=0.7977 parameters=14724042
+epoch=7/160 phase=dense train_loss=0.452985 val_accuracy=0.819000 lr=0.1 train_s=18.1472 validation_s=0.7846 parameters=14724042
+epoch=8/160 phase=dense train_loss=0.406238 val_accuracy=0.811000 lr=0.1 train_s=18.1072 validation_s=0.7910 parameters=14724042
+epoch=9/160 phase=dense train_loss=0.373391 val_accuracy=0.850200 lr=0.1 train_s=18.0967 validation_s=0.7918 parameters=14724042
+epoch=10/160 phase=dense train_loss=0.347436 val_accuracy=0.843200 lr=0.1 train_s=18.1079 validation_s=0.7754 parameters=14724042
+epoch=11/160 phase=dense train_loss=0.326136 val_accuracy=0.847800 lr=0.1 train_s=18.0569 validation_s=0.7782 parameters=14724042
+epoch=12/160 phase=dense train_loss=0.298822 val_accuracy=0.858600 lr=0.1 train_s=18.0243 validation_s=0.7963 parameters=14724042
+epoch=13/160 phase=dense train_loss=0.279200 val_accuracy=0.849200 lr=0.1 train_s=18.0662 validation_s=0.7943 parameters=14724042
+epoch=14/160 phase=dense train_loss=0.265788 val_accuracy=0.854000 lr=0.1 train_s=18.0933 validation_s=0.7817 parameters=14724042
+epoch=15/160 phase=dense train_loss=0.259395 val_accuracy=0.852600 lr=0.1 train_s=18.0471 validation_s=0.7894 parameters=14724042
+epoch=16/160 phase=dense train_loss=0.235922 val_accuracy=0.862600 lr=0.1 train_s=18.0743 validation_s=0.7978 parameters=14724042
+epoch=17/160 phase=dense train_loss=0.223745 val_accuracy=0.869600 lr=0.1 train_s=18.0756 validation_s=0.7926 parameters=14724042
+epoch=18/160 phase=dense train_loss=0.209498 val_accuracy=0.850800 lr=0.1 train_s=18.0655 validation_s=0.8002 parameters=14724042
+epoch=19/160 phase=dense train_loss=0.196727 val_accuracy=0.870400 lr=0.1 train_s=18.1019 validation_s=0.7802 parameters=14724042
+epoch=20/160 phase=dense train_loss=0.190400 val_accuracy=0.857800 lr=0.1 train_s=18.1559 validation_s=0.7773 parameters=14724042
+epoch=21/160 phase=dense train_loss=0.182703 val_accuracy=0.865800 lr=0.1 train_s=18.0631 validation_s=0.7974 parameters=14724042
+epoch=22/160 phase=dense train_loss=0.175312 val_accuracy=0.854800 lr=0.1 train_s=18.1182 validation_s=0.7960 parameters=14724042
+epoch=23/160 phase=dense train_loss=0.169798 val_accuracy=0.885000 lr=0.1 train_s=18.1264 validation_s=0.7811 parameters=14724042
+epoch=24/160 phase=dense train_loss=0.159640 val_accuracy=0.888000 lr=0.1 train_s=18.1043 validation_s=0.7873 parameters=14724042
+epoch=25/160 phase=dense train_loss=0.152220 val_accuracy=0.885000 lr=0.1 train_s=18.0568 validation_s=0.7870 parameters=14724042
+epoch=26/160 phase=dense train_loss=0.151051 val_accuracy=0.844000 lr=0.1 train_s=18.0849 validation_s=0.7913 parameters=14724042
+epoch=27/160 phase=dense train_loss=0.145252 val_accuracy=0.877600 lr=0.1 train_s=18.0921 validation_s=0.7903 parameters=14724042
+epoch=28/160 phase=dense train_loss=0.140287 val_accuracy=0.889800 lr=0.1 train_s=18.0986 validation_s=0.7890 parameters=14724042
+epoch=29/160 phase=dense train_loss=0.133723 val_accuracy=0.858600 lr=0.1 train_s=18.0766 validation_s=0.7966 parameters=14724042
+epoch=30/160 phase=dense train_loss=0.128132 val_accuracy=0.889200 lr=0.1 train_s=18.0842 validation_s=0.7797 parameters=14724042
+epoch=31/160 phase=dense train_loss=0.124283 val_accuracy=0.862800 lr=0.1 train_s=18.0834 validation_s=0.7998 parameters=14724042
+epoch=32/160 phase=dense train_loss=0.123707 val_accuracy=0.880600 lr=0.1 train_s=18.0814 validation_s=0.7880 parameters=14724042
+epoch=33/160 phase=dense train_loss=0.118309 val_accuracy=0.876400 lr=0.1 train_s=18.0796 validation_s=0.7943 parameters=14724042
+epoch=34/160 phase=dense train_loss=0.116164 val_accuracy=0.876000 lr=0.1 train_s=18.0785 validation_s=0.7870 parameters=14724042
+epoch=35/160 phase=dense train_loss=0.109214 val_accuracy=0.882400 lr=0.1 train_s=18.0510 validation_s=0.8021 parameters=14724042
+epoch=36/160 phase=dense train_loss=0.104996 val_accuracy=0.889400 lr=0.1 train_s=18.1236 validation_s=0.7990 parameters=14724042
+epoch=37/160 phase=dense train_loss=0.109541 val_accuracy=0.872200 lr=0.1 train_s=18.0572 validation_s=0.7893 parameters=14724042
+epoch=38/160 phase=dense train_loss=0.098516 val_accuracy=0.887000 lr=0.1 train_s=18.0840 validation_s=0.7841 parameters=14724042
+epoch=39/160 phase=dense train_loss=0.097507 val_accuracy=0.875000 lr=0.1 train_s=18.0660 validation_s=0.7966 parameters=14724042
+epoch=40/160 phase=dense train_loss=0.102966 val_accuracy=0.895000 lr=0.1 train_s=18.0733 validation_s=0.7908 parameters=14724042
+status=failed error_type=ValueError error=Selected channel mask removes every channel in a BN layer
+paired_mask_match=None

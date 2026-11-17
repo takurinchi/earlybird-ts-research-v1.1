@@ -1,0 +1,10 @@
+experiment:
+  mode: ts_comparison
+  config: earlybird.yaml
+ts:
+  information_modes: [online, posthoc] # Run and report these separately
+  relative_to_tm:
+    before_offset: 10 # C1: t_m - 10, clamped at epoch 1
+    near_offset: 0
+    after_offset: 10 # C3: t_m + 10
+  fixed_epoch: 40 # C4 fixed comparison time; declared study design choice

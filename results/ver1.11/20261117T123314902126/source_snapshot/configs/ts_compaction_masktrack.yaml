@@ -1,0 +1,6 @@
+experiment:
+  mode: train_time_compaction
+  config: ts_compaction.yaml
+data:
+  # Writable mirror for this rerun; the preserved project dataset is read-only.
+  root: .cache/cifar10_masktrack
