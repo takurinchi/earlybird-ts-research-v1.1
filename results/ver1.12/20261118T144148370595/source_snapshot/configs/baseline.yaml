@@ -1,0 +1,4 @@
+experiment:
+  mode: dense_baseline
+  config: default.yaml
+  pruning: false

@@ -1,0 +1,6 @@
+experiment:
+  config: ts_compaction_masktrack.yaml
+  output_root: outputs/ver1.11
+pruning:
+  # selected_ratio is the fraction REMOVED. Retain approximately 20%.
+  selected_ratio: 0.8
