@@ -1,0 +1,24 @@
+{
+  "scope": "dense_baseline_candidate",
+  "n": 4224,
+  "mask_count": 160,
+  "epoch_range": [
+    0,
+    159
+  ],
+  "source": "C:\\Users\\関本　巧\\Documents\\Codex\\2026-10-26\\ko\\outputs\\earlybird-ts-research-v1.1-results\\results\\ver1.11\\20261117T123314902126\\baseline\\masks\\epoch_mask_matrix.csv",
+  "sha256": "0e18d7c8973f38e30fe1903902101d0b087d15fc0cb73185a63f2046a7c8e259",
+  "coordinate_view": "vgg-layers",
+  "radius_rule": "r[0]=0 (undefined previous mask); r[k]=H(x[k-1],x[k])/n for k>=1",
+  "first_transition_radius": 0.19981060606060605,
+  "final_radius": 0.0004734848484848485,
+  "finite_total_path": 4.0710227272727275,
+  "final_hamming": 2,
+  "note": "No infinite convergence guarantee. Epoch 0 all-zero mask is included; its first transition is atypical.",
+  "export_name": "ver1_11_20261117_baseline",
+  "mask_rows": 160,
+  "center_rows": 161,
+  "channel_columns": 4224,
+  "column_order": "model block, layer, channel",
+  "checks": "Exported bits match source exactly; per-layer means match previously delivered CSV"
+}
